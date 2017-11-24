@@ -1,2 +1,2 @@
 # Bayesian-Classifier-Fake-News
-The code behind the thesis 'Il classificatore Bayesiano come metodo per l’individuazione automatica delle Fake News', by Matteo Mazzola 
+The code behind the writing 'Il classificatore Bayesiano come metodo per l’individuazione automatica delle Fake News', by Matteo Mazzola 
